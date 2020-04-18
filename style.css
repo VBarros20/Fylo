@@ -1,0 +1,599 @@
+body {
+    background-repeat: no-repeat;
+    
+    background-color: #1B2330;
+    background-size: cover;
+    position: relative;
+    background-position-y: 45vw;
+}
+
+
+
+.montanha img{
+    width: 100%;
+    margin-top: 47vw;
+    object-position: bottom;
+    
+}
+
+ul li{
+    display: inline-block;
+    color: antiquewhite;
+    float: right;
+}
+
+.menu li{
+    float: right;
+    margin-right: 25px;
+    margin-top: 65px;
+    padding-right: 7px;
+    font-family: 'Comic Neue', cursive;
+    
+}
+
+.logo1{
+    margin-left: 30px;
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    float: left;
+    position: absolute;
+}
+
+.imgcentro {
+    position: absolute;
+    margin-left: 47vh;
+    padding-top: 15vw;
+}
+
+.imgcentro h1 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Comic Neue', cursive; 
+}
+
+.imgcentro h6 {
+    color: white;
+    text-align: center;
+    font-size: 17px;
+    padding-top: 35px;
+    font-family: 'Comic Neue', cursive;
+}
+
+.imgcentro button{
+    color: white;
+    background-color:#3CB2CC;
+    border: 0px;
+    font-family: 'Comic Neue', cursive;
+    width: 220px;
+    height: 40px;
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-top: 25px;
+    margin-left: 40vh;
+    margin-bottom: 2px;
+}
+
+.blocos{
+    background-color: #181F2B;
+    width: 100%;
+    height: 330vh;
+    margin-top: -10px;
+    
+}
+
+.bloco1 {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    margin-top: -330vh;
+    margin-left: 15%;
+    background-image: url("./template-gryphos/images/icon-access-anywhere.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 0px;
+    background-size: 120px;  
+}
+
+.bloco2 {
+    background-image: url("./template-gryphos/images/icon-security.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 0px;
+    background-size: 90px;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    margin-top: -330vh;
+    margin-left: 50%;
+}
+
+
+.bloco3 {
+    background-image: url("./template-gryphos/images/icon-collaboration.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 0px;
+    background-size: 130px;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    margin-top: -275vh;
+    margin-left: 15%;
+}
+
+.bloco4 {
+    background-image: url("./template-gryphos/images/icon-any-file.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 0px;
+    background-size: 140px;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    margin-top: -275vh;
+    margin-left: 50%;
+}
+
+.bloco1 h1{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: 'Comic Neue', cursive;
+    margin-top: 170px;
+    
+}
+
+.bloco1 h2{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-family: 'Comic Neue', cursive;
+    margin-top: 10px;
+}
+
+.bloco2 h1{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: 'Comic Neue', cursive;
+    margin-top: 170px;
+    
+}
+
+.bloco2 h2{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-family: 'Comic Neue', cursive;
+    margin-top: 10px;
+}
+
+.bloco3 h1{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: 'Comic Neue', cursive;
+    margin-top: 170px;
+    
+}
+
+.bloco3 h2{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-family: 'Comic Neue', cursive;
+    margin-top: 10px;
+}
+
+.bloco4 h1{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: 'Comic Neue', cursive;
+    margin-top: 170px;
+    
+}
+
+.bloco4 h2{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-family: 'Comic Neue', cursive;
+    margin-top: 10px;
+}
+
+.productive{
+    margin-top: -200vh;
+    width: 700px;
+    height: 500px;
+    background-image: url("./template-gryphos/images/illustration-stay-productive.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 560px;
+    
+}
+
+.h1 h1{
+    float: right;
+    width: 600px;
+    height: 100px;
+    text-align: left;
+    color: white;
+    font-size: 50px;
+    margin-top: 125px;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 38px;
+}
+
+.h2 h1{
+    float: right;
+    width: 600px;
+    height: 80px;
+    margin-right: -600px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Comic Neue', cursive;
+    margin-top: 255px;
+
+}
+
+.h3 h1{
+    float: right;
+    width: 600px;
+    height: 80px;
+    margin-right: -600px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Comic Neue', cursive;
+    margin-top: 325px;
+
+}
+
+.botao h1{
+    float: right;
+    width: 170px;
+    height: 25px;
+    margin-right: -170px;
+    color: white;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 410px;
+    border-bottom: 1px solid #62E0D9;
+    background-image: url("./template-gryphos/images/icon-arrow.svg");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: -2px;
+    background-size: 20px;
+    color: #62E0D9;
+
+}
+
+.coment1 {
+    width: 350px;
+    height: 200px;
+    margin-top: -40px;
+    margin-left: 120px;
+    background-color: rgb(39, 49, 66);
+}
+
+.coment1 img{
+    width: 30px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 20px;
+    border-top-left-radius: 35px;
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    border-top-right-radius: 35px;
+}
+
+.coment1 h1{
+    padding-top: 40px;
+    margin-left: 20px;
+    color: white;
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.coment1 h2{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -30px;
+    margin-left: 60px;
+}
+
+.coment1 h3{
+    color: white;
+    font-family: 'Roboto', sans-serif; 
+    font-size: 10px;
+    margin-left: 60px;
+}
+
+.coment2 {
+    width: 350px;
+    height: 200px;
+    float: right;
+    margin-top: -200px;
+    margin-right: 495px;
+    background-color: rgb(39, 49, 66);    
+}
+
+.coment2 img{
+    width: 30px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 20px;
+    border-top-left-radius: 35px;
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    border-top-right-radius: 35px;
+}
+
+.coment2 h1{
+    padding-top: 40px;
+    margin-left: 20px;
+    color: white;
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.coment2 h2{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -30px;
+    margin-left: 60px;
+}
+
+.coment2 h3{
+    color: white;
+    font-family: 'Roboto', sans-serif; 
+    font-size: 10px;
+    margin-left: 60px;
+}
+
+.coment3 {
+    width: 350px;
+    height: 200px;
+    float: right;
+    margin-top: -200px;
+    margin-right: 115px;
+    background-color: rgb(39, 49, 66);
+}
+
+.coment3 img{
+    width: 30px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 20px;
+    border-top-left-radius: 35px;
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    border-top-right-radius: 35px;
+}
+
+.coment3 h1{
+    padding-top: 40px;
+    margin-left: 20px;
+    color: white;
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.coment3 h2{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -30px;
+    margin-left: 60px;
+}
+
+.coment3 h3{
+    color: white;
+    font-family: 'Roboto', sans-serif; 
+    font-size: 10px;
+    margin-left: 60px;
+}
+
+.aspas {
+    background-image: url("./template-gryphos/images/bg-quotes.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100px;
+    height: 100px;
+    margin-top: 130px;
+    margin-left: 85px;
+}
+
+.footer {
+    width: 100%;
+    height: 360px;
+    margin-top: 57vh;
+    background-color: rgb(8, 15, 31);
+}
+
+.early {
+    width: 850px;
+    height: 250px;
+    margin-top: -78vh;
+    margin-left: 240px;
+    background-color: #1B2330;
+
+}
+
+.early h1{
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.early h2 {
+    color: white;
+    font-family: 'Comic Neue', cursive;
+    text-align: center;
+    font-size: 16px;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-right: 20px;
+
+}
+
+.footer input{
+    margin-left: 330px;
+    margin-top: 45px;
+    width: 500px;
+    height: 35px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.footer label{
+    margin-left: -450px;
+    font-family: 'Comic Neue', cursive;
+    color: rgb(179, 179, 179);
+    border: 0px;
+    
+}
+
+.botaoform{
+    width: 180px;
+    height: 40px;
+    margin-top: -78px;
+    margin-left: 850px;
+    position: absolute;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: #62E0D9;
+    border: 0px;
+}
+
+.botaoform h1{
+    font-family: 'Roboto', sans-serif;
+    color: white
+}
+
+.logofim {
+    height: 60px;
+    width: 200px;
+    background-image: url("./template-gryphos/images/logo.svg");
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left:  80px;
+    margin-top: 40px;
+}
+
+.location{
+    width: 350px;
+    height: 80px;
+    background-image: url("./template-gryphos/images/icon-location.svg");
+    background-repeat: no-repeat;
+    margin-left: 79px;
+    margin-top: 125px;
+}
+
+.location h1{
+    color: white;
+    font-size: 15px;
+    padding-left: 20px;
+    font-family: 'Comic Neue', cursive;
+    padding-top: 5px;
+}
+
+.contatos{
+    width: 190px;
+    height: 20px;
+    margin-top: -80px;
+    margin-left: 500px;
+    background-repeat: no-repeat;
+    background-image: url("./template-gryphos/images/icon-phone.svg");
+}
+
+.email{
+    width: 190px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 500px;
+    background-image: url("./template-gryphos/images/icon-email.svg");
+    background-repeat: no-repeat;
+}
+
+.email h1{
+    color: white;
+    padding-left: 40px;
+    font-family: 'Comic Neue', cursive;
+
+}
+
+.contatos h1 {
+    font-family: 'Comic Neue', cursive;
+    color: white;
+    padding-left: 40px;
+}
+
+.opcoes {
+    width: 260px;
+    height: 150px;
+    margin-top: -110px;
+    margin-left: 800px;
+}
+
+.opcoes p{
+    color: 
+    white;
+    font-family: 'Comic Neue', cursive;
+    padding-top: 2px;
+}
+
+.opcoes h1{
+    color: 
+    white;
+    font-family: 'Comic Neue', cursive;
+    padding-top: 20px;
+}
+
+.opcoes h2{
+    color: 
+    white;
+    font-family: 'Comic Neue', cursive;
+    padding-top: 20px;
+}
+
+.opcoes h3{
+    color: 
+    white;
+    font-family: 'Comic Neue', cursive;
+    padding-top: 20px;
+}
+
+.opcoes h4{
+    color: 
+    white;
+    font-family: 'Comic Neue', cursive;
+    padding-left: 150px;
+    margin-top: -125px;
+}
+
+.opcoes h5{
+    color: 
+    white;
+    font-family: 'Comic Neue', cursive;
+    padding-left: 150px;
+    margin-top: 20px;
+}
+
+.opcoes h6{
+    color: 
+    white;
+    font-family: 'Comic Neue', cursive;
+    padding-left: 150px;
+    padding-top:  20px;
+}
